@@ -19,7 +19,7 @@ public class bmi implements Thepatient {
 	
 
 
-	
+	// output BMI.txt file 
 	
 private static final String OUTPUT_FILE = "BMI.txt";
 public static void main(String[] args) {
